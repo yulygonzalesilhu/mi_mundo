@@ -1,0 +1,26 @@
+🧠 Historia de la Inteligencia Artificial (IA)
+1. Orígenes (antes de 1950)
+La idea de que las máquinas pudieran pensar aparece en antiguos mitos y textos filosóficos. En el siglo XVII, pensadores como René Descartes y Gottfried Leibniz imaginaron formas de razonamiento mecánico, pero no existía la tecnología para hacerlo realidad.
+
+2. Nacimiento oficial de la IA (1950-1960)
+En 1950, Alan Turing propuso el famoso Test de Turing, que buscaba determinar si una máquina podía simular el pensamiento humano.
+En 1956, en la Conferencia de Dartmouth, el científico John McCarthy acuñó el término Inteligencia Artificial y se inició formalmente esta disciplina.
+
+3. Primeros logros y optimismo (1960-1970)
+Se crearon programas que resolvían problemas matemáticos o jugaban ajedrez. Muchos científicos creían que pronto habría máquinas tan inteligentes como los humanos. Pero se subestimaron las dificultades técnicas.
+
+4. El "invierno de la IA" (1970-1980)
+Los proyectos prometidos no se cumplieron. Esto causó desilusión, y el apoyo económico y académico disminuyó. Este periodo de estancamiento se llama el “invierno de la IA”.
+
+5. Sistemas expertos y renacimiento (1980-1990)
+Aparecieron los sistemas expertos, que imitaban el conocimiento humano en áreas específicas como medicina. Aunque eran útiles, eran difíciles de mantener y su desarrollo era costoso.
+
+6. Aprendizaje automático y Big Data (1990-2010)
+Con el avance del almacenamiento y los datos masivos, la IA evolucionó gracias al Machine Learning (aprendizaje automático), donde las máquinas aprenden patrones sin ser programadas directamente.
+
+7. IA moderna y profunda (2010-presente)
+Se desarrolló el Deep Learning (aprendizaje profundo) y redes neuronales más complejas. Esto dio paso a herramientas como Siri, Alexa, traductores automáticos, reconocimiento facial y, más adelante, ChatGPT en 2022.
+Hoy, la IA está en la educación, medicina, transporte, arte, agricultura y muchos otros campos.
+
+✅ Conclusión
+La IA ha pasado de ser una idea filosófica a una tecnología que transforma la sociedad. Aunque aún hay retos éticos y técnicos, su desarrollo conti
